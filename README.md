@@ -1,6 +1,6 @@
 # 🛡️ SpamGuard — AI-Powered Spam Email Detector
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://spamguard-unh923mcv7n7qjaybmveuc.streamlit.app)
 
 A machine learning web app that detects whether a message is **spam or not spam** using Natural Language Processing and a Random Forest classifier.
 
@@ -8,13 +8,7 @@ A machine learning web app that detects whether a message is **spam or not spam*
 
 ## 🚀 Live Demo
 
-👉 [**Try SpamGuard Live**](https://share.streamlit.io) ← *(replace with your Streamlit Cloud link after deployment)*
-
----
-
-## 📸 Preview
-
-> Enter any message → click Analyze → instantly know if it's spam!
+👉 [**Try SpamGuard Live**](https://spamguard-unh923mcv7n7qjaybmveuc.streamlit.app)
 
 ---
 
@@ -48,7 +42,7 @@ Random Forest was chosen as the final model for its highest accuracy and zero fa
 ## 📁 Project Structure
 
 ```
-SpamEmailDetector/
+SpamGuard/
 ├── app.py            ← Streamlit web app
 ├── main.ipynb        ← Model training notebook
 ├── model.pkl         ← Trained Random Forest model
